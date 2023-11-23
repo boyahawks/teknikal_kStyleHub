@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84416752326",
+    "project_id": "kstylehub-437bf",
+    "storage_bucket": "kstylehub-437bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84416752326:android:eb4a4fde64365dc8f8c5c7",
+        "android_client_info": {
+          "package_name": "com.example.test_kstylehub_bayuh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxdhotDrdcYCckhIQX7Bx37Gt525xla4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
